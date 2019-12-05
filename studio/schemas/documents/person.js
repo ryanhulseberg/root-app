@@ -1,9 +1,9 @@
 import MdPerson from 'react-icons/lib/md/person'
 
 export default {
-  name: 'Places',
+  name: 'person',
   type: 'document',
-  title: 'Places',
+  title: 'Person',
   icon: MdPerson,
   fields: [
     {
