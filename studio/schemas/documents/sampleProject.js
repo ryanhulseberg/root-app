@@ -1,8 +1,8 @@
 import {format} from 'date-fns'
 
 export default {
-  name: 'sampleProject',
-  title: 'Sample project',
+  name: 'events',
+  title: 'Events',
   type: 'document',
   fields: [
     {
